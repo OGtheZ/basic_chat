@@ -1,0 +1,10 @@
+{
+    "require": {
+        "portphp/csv": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    }
+}
